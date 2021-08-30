@@ -1,0 +1,1 @@
+run = "g++ storesim.cpp -o output; ./output"
